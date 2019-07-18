@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: e460532bbb9754a4d885b5dac2b097d3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Diodrum
+  fontNames:
+  - Diodrum
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5f730240a093a4e798cd3c053f37daa5, type: 3}
+  - {fileID: 12800000, guid: 450f81b71d25042a99118f4b421b9dcf, type: 3}
+  - {fileID: 12800000, guid: 96aa98b8e566942e5b5cec878c1e8162, type: 3}
+  - {fileID: 12800000, guid: 16a44b5cf055e4a48866c06dcd0155b7, type: 3}
+  - {fileID: 12800000, guid: c8b5e32e048d24daa8a298e2a2247ace, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{44F39BD3-5EA4-A465-CD0B-7D7A0B2D8946}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EyeTracking.cs">
+    <Files>
+      <File FileName="Assets/PlaneRecognition.cs" Line="17" Column="48" />
+      <File FileName="Assets/Scripts/EyeTracking.cs" Line="602" Column="29" />
+      <File FileName="Library/PackageCache/com.unity.xr.magicleap@2.0.0-preview.18/Runtime/MLSpatialMapper.cs" Line="495" Column="35" />
+      <File FileName="Assets/VideoScript.cs" Line="23" Column="17" />
+      <File FileName="Assets/MagicLeap/Examples/Scripts/MobileAppExample.cs" Line="229" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

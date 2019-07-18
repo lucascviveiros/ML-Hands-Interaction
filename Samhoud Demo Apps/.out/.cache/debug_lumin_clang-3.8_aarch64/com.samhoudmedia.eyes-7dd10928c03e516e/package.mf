@@ -1,0 +1,276 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "99c35cca1d411a327486c746992865de29b4467c",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3106152,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "ceb173e83ac8b9e7d5277b63bb760caf85aa10ab",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 46188448,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/samhoud/Downloads/privatekey/hellomagicleap.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "9a022fe0b7bcc72d30ef615d7e7970e5eb38b26a",
+   "xfrm_path": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/.out/.cache/debug_lumin_clang-3.8_aarch64/com.samhoudmedia.eyes-7dd10928c03e516e/libil2cpp.so-824d5958fc6fc8a4",
+   "xfrm_size": 46189206
+  },
+  {
+   "compression": 8,
+   "hash": "6b3b1067e8eeb28457c572292a209cc931e93089",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 269360,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/samhoud/Downloads/privatekey/hellomagicleap.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "7fd570b5779ebc32a8e30285273043eb051b8a94",
+   "xfrm_path": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/.out/.cache/debug_lumin_clang-3.8_aarch64/com.samhoudmedia.eyes-7dd10928c03e516e/AudioPluginMSASpatializer.so-c92c93f48a088649",
+   "xfrm_size": 270118
+  },
+  {
+   "compression": 8,
+   "hash": "451a2617c57c859bc6555a63abf2a0a0a30c010f",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 100864,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "59d035b177af853aa8ee2a78714391dae4657a36",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 1495008,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/samhoud/Downloads/privatekey/hellomagicleap.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "10c4f39e211a8dbb83ed555d173fd4d815444470",
+   "xfrm_path": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/.out/.cache/debug_lumin_clang-3.8_aarch64/com.samhoudmedia.eyes-7dd10928c03e516e/UnityMagicLeap.so-c92c93f48a088649",
+   "xfrm_size": 1495766
+  },
+  {
+   "compression": 8,
+   "hash": "e36553e9a3113280d39db515a350a0036cda878d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/samhoud/Downloads/privatekey/hellomagicleap.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "34427863b6121c7b49fd93a19a02b0b179646a34",
+   "xfrm_path": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/.out/.cache/debug_lumin_clang-3.8_aarch64/com.samhoudmedia.eyes-7dd10928c03e516e/libml_camera_plugin.so-c92c93f48a088649",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "0ee8bd5ed3f83c8d11c84a597fb375ec525b0642",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/samhoud/Downloads/privatekey/hellomagicleap.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "220916b1692bd395135c9a06da7498440d904090",
+   "xfrm_path": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/.out/.cache/debug_lumin_clang-3.8_aarch64/com.samhoudmedia.eyes-7dd10928c03e516e/libml_mediaplayer_plugin.so-c92c93f48a088649",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "63c7ca62020949b1c87b1439f31b7a9719db98c1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3652028,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "ff46359fc500e049636a9a844bd0ff1b3844a7ce",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 754668,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "10506c7e5f53e331db0e8c7c94047849df023433",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 176,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "9f9d9fdfae69214ea57a2416e60a9fe924367caa",
+   "pkgpath": "Data/boot.config",
+   "size": 144,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "22d808072b881e977f25359c0464e514d8fb3e0d",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 45768,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "1b129512e6a4b5b47b2db69feafe619dfb2de8e5",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 69384,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "4571e319f57e287984f3aac529bccf58057aac5d",
+   "pkgpath": "Data/level0",
+   "size": 16772,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "ff358b75b5c6218f34b6c907e0dbe1dacc8dfed6",
+   "pkgpath": "Data/resources.assets",
+   "size": 19128,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f4ce785d29d24c54555cb4aa9fed0d8d2dee1fad",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "2d22863113d117c42ca4bb4cd3bc6bcdc9ea0702",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 1410560,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "8ba3385f53cd2c38986b47bffce37969e167106e",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 544288,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6bea85827263fca07a7815ff263c5316bf16139e",
+   "pkgpath": "bin/Player.elf",
+   "size": 20267912,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/samhoud/Downloads/privatekey/hellomagicleap.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "45d3e747c76aa2c2fb033fa74f1b6ee00f8f7b2b",
+   "xfrm_path": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/.out/.cache/debug_lumin_clang-3.8_aarch64/com.samhoudmedia.eyes-7dd10928c03e516e/Player.elf-de9742ed24cd41d4",
+   "xfrm_size": 20268670
+  },
+  {
+   "compression": 8,
+   "hash": "55d4d978cfc6c2da67337b6aaaa19119b90cbc9d",
+   "pkgpath": "manifest.xml",
+   "size": 3377,
+   "src": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "d425ea427a07fc6c7e8aaa7925f65f082eb86a11",
+     "developer_id": "4f9fcfb8-7ba1-44cb-9108-fb2851df2241"
+    }
+   },
+   "xfrm_hash": "83817c3225e25cbd4fa80d2f3f1bb4e6e8dad05a",
+   "xfrm_path": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/.out/.cache/debug_lumin_clang-3.8_aarch64/com.samhoudmedia.eyes-7dd10928c03e516e/manifest.xml-de9742ed24cd41d4",
+   "xfrm_size": 1118
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/samhoud/MagicLeap/mlsdk/v0.20.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/samhoud/Downloads/privatekey/hellomagicleap.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "1426e1e9f38bc1571ccc96a310c37fd237599f20",
+   "xfrm_path": "/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/.out/.cache/debug_lumin_clang-3.8_aarch64/com.samhoudmedia.eyes-7dd10928c03e516e/libc++_shared.so-bf9491a76782d457",
+   "xfrm_size": 977590
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/samhoud/Downloads/privatekey/hellomagicleap.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "/Users/samhoud/Downloads/privatekey/hellomagicleap.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

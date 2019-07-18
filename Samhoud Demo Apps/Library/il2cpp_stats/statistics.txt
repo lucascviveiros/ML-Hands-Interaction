@@ -1,0 +1,301 @@
+----IL2CPP Arguments----
+--convert-to-cpp --emit-null-checks --enable-stacktrace --enable-array-bounds-check --dotnetprofile=unityaot --compile-cpp --libil2cpp-static --platform=Lumin --architecture=ARM64 --configuration=Release --outputpath=/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Native/libil2cpp.so --cachedirectory=/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Assets/../Library/il2cpp_cache/il2cpp_cache --verbose --enable-stats --stats-output-dir=/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Assets/../Library/il2cpp_stats --profiler-report --map-file-parser=/Applications/Unity/Hub/Editor/2019.1.2f1/Unity.app/Contents/Tools/MapFileParser/MapFileParser --directory=/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed --generatedcppdir=/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/il2cppOutput
+
+----Assemblies Converted-----
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/netstandard.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/LuminMediaPlayer.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.ARModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/System.Configuration.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.LuminModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/LuminUnity.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/mscorlib.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/Mono.Security.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/System.Globalization.Extensions.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/System.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/System.Xml.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.XR.MagicLeap.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/System.Diagnostics.StackTrace.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/System.Core.dll
+	/Users/samhoud/Documents/Lucas Viveiros/Git/Samhoud Demo Apps/Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll
+
+----- il2cpp Statistics -----
+General:
+	Conversion Time: 25.101 s
+	Files Written: 171
+	String Literals: 4844
+Methods:
+	Total Methods: 30236
+	Non-Generic Methods: 18523
+	Generic Type Methods: 9844
+	Generic Methods: 1869
+	Shared Methods: 11691
+	Methods with Tail Calls : 0
+Metadata:
+	Total: 3,303.06 kb
+	String Literals: 37.84 kb
+	String Literal Data: 151.73 kb
+	Metadata Strings: 420.59 kb
+	Events: 1.83 kb
+	Properties: 68.26 kb
+	Methods: 631.50 kb
+	Parameter Default Values: 1.02 kb
+	Field Default Values: 58.72 kb
+	Field and Parameter Default Values Data: 85.80 kb
+	Field Marshaled Sizes: 11.87 kb
+	Parameters: 259.44 kb
+	Fields: 165.67 kb
+	Generic Parameters: 6.83 kb
+	Generic Parameter Constraints: 0.27 kb
+	Generic Containers: 5.50 kb
+	Nested Types: 3.49 kb
+	Interfaces: 4.52 kb
+	VTables: 130.75 kb
+	Interface Offsets: 29.49 kb
+	Type Definitions: 313.02 kb
+	Images: 1.80 kb
+	Assemblies: 3.05 kb
+	Metadata Usage Lists: 238.77 kb
+	Metadata Usage Pairs: 543.51 kb
+	Field Refs: 1.13 kb
+	Referenced Assemblies: 0.89 kb
+	Attribute Types Ranges: 66.46 kb
+	Attribute Types: 43.34 kb
+	Unresolved Virtual Call Parameter Types: 6.00 kb
+	Unresolved Virtual Call Parameter Ranges: 4.02 kb
+	Windows Runtime type names: 0.00 kb
+	Exported Types: 5.95 kb
+Codegen:
+	NullChecks : 54266
+Hashing:
+	String Literal Hash Collisions : 0
+	Type Hash Collisions : 0
+	Method Hash Collisions : 0
+	Sequence Point Hash Collisions : 0
+Interop:
+	Windows Runtime boxed types : 0
+	Windows Runtime types with names : 0
+	Native to managed interface adapters : 0
+	Array COM callable wrappers : 0
+	COM callable wrappers : 0
+	COM callable wrapper methods that were implemented : 0
+	COM callable wrapper methods that were stripped : 0
+	COM callable wrapper methods that were forwarded to call base class method : 0
+Compilation:
+	Total Files: 203
+	Files Compiled: 0
+	Cache Hits: 203
+	Cache Hit %: 100
+
+
+----Assembly Conversion Times----
+	Convert Assembly-CSharp (755.698791503906ms)
+	Convert LuminMediaPlayer (250.369705200195ms)
+	Convert LuminUnity (1140.62426757813ms)
+	Convert Mono.Security (12.7401132583618ms)
+	Convert mscorlib (4211.19775390625ms)
+	Convert netstandard (0.614933013916016ms)
+	Convert System (590.677185058594ms)
+	Convert System.Configuration (5.60696411132813ms)
+	Convert System.Core (2.6271538734436ms)
+	Convert System.Diagnostics.StackTrace (0.69681704044342ms)
+	Convert System.Globalization.Extensions (0.590321004390717ms)
+	Convert System.Xml (10.6580972671509ms)
+	Convert Unity.TextMeshPro (1412.80322265625ms)
+	Convert UnityEngine (0.6666339635849ms)
+	Convert UnityEngine.AIModule (1.86661601066589ms)
+	Convert UnityEngine.AnimationModule (29.1509208679199ms)
+	Convert UnityEngine.ARModule (2.27754592895508ms)
+	Convert UnityEngine.AssetBundleModule (4.85366487503052ms)
+	Convert UnityEngine.AudioModule (19.7562408447266ms)
+	Convert UnityEngine.CoreModule (466.339538574219ms)
+	Convert UnityEngine.DirectorModule (3.02497315406799ms)
+	Convert UnityEngine.GridModule (0.982163965702057ms)
+	Convert UnityEngine.ImageConversionModule (1.37237000465393ms)
+	Convert UnityEngine.IMGUIModule (95.8464584350586ms)
+	Convert UnityEngine.InputModule (5.47728490829468ms)
+	Convert UnityEngine.JSONSerializeModule (2.96147704124451ms)
+	Convert UnityEngine.LuminModule (1.69274306297302ms)
+	Convert UnityEngine.ParticleSystemModule (11.1221466064453ms)
+	Convert UnityEngine.Physics2DModule (37.861930847168ms)
+	Convert UnityEngine.PhysicsModule (28.4403610229492ms)
+	Convert UnityEngine.SharedInternalsModule (18.8894290924072ms)
+	Convert UnityEngine.SpatialTracking (20.1472434997559ms)
+	Convert UnityEngine.TerrainModule (26.984561920166ms)
+	Convert UnityEngine.TextCoreModule (38.1597366333008ms)
+	Convert UnityEngine.TextRenderingModule (20.6289920806885ms)
+	Convert UnityEngine.TilemapModule (9.29939556121826ms)
+	Convert UnityEngine.UI (1053.93518066406ms)
+	Convert UnityEngine.UIElementsModule (8.54009628295898ms)
+	Convert UnityEngine.UIModule (20.1180362701416ms)
+	Convert UnityEngine.UnityAnalyticsModule (6.90370798110962ms)
+	Convert UnityEngine.UnityWebRequestModule (36.4688301086426ms)
+	Convert UnityEngine.VFXModule (8.02616214752197ms)
+	Convert UnityEngine.VideoModule (11.241322517395ms)
+	Convert UnityEngine.VRModule (2.30049896240234ms)
+	Convert UnityEngine.XR.MagicLeap (118.708992004395ms)
+	Convert UnityEngine.XRModule (80.5839767456055ms)
+
+----Misc Timing----
+	PreProcessStage: 414.548370361328
+	GenericsCollector.Collect: None
+	WriteGenerics: 5793.43701171875
+	AllAssemblyConversion: 10916.76953125
+
+----Generated Files----
+Assembly-CSharp.cpp	2125464
+Assembly-CSharp1.cpp	2225532
+Assembly-CSharp2.cpp	1722347
+GenericMethods.cpp	2346599
+GenericMethods1.cpp	1891472
+GenericMethods2.cpp	1891390
+GenericMethods3.cpp	2292527
+GenericMethods4.cpp	1103628
+Generics.cpp	1689617
+Generics1.cpp	2095724
+Generics10.cpp	1403297
+Generics11.cpp	1710996
+Generics12.cpp	1640326
+Generics13.cpp	1368093
+Generics14.cpp	1378123
+Generics15.cpp	1549042
+Generics16.cpp	1570910
+Generics17.cpp	1484100
+Generics18.cpp	1677877
+Generics19.cpp	1742824
+Generics2.cpp	2197328
+Generics20.cpp	1373408
+Generics3.cpp	1360865
+Generics4.cpp	1325324
+Generics5.cpp	2003571
+Generics6.cpp	1733265
+Generics7.cpp	1722731
+Generics8.cpp	1407149
+Generics9.cpp	1426329
+Il2CppAttributes.cpp	5883514
+Il2CppCodeRegistration.cpp	7333
+Il2CppCompilerCalculateTypeValues.cpp	4542945
+Il2CppCompilerCalculateTypeValues1.cpp	4452169
+Il2CppCompilerCalculateTypeValuesTable.cpp	519923
+Il2CppGenericComDefinitions.cpp	193
+Il2CppGenericMethodPointerTable.cpp	2903108
+Il2CppInteropDataTable.cpp	242476
+Il2CppInvokerTable.cpp	3754165
+Il2CppReversePInvokeWrapperTable.cpp	22357
+LuminMediaPlayer.cpp	1331109
+LuminUnity.cpp	1946149
+LuminUnity1.cpp	2014540
+LuminUnity2.cpp	2200871
+LuminUnity3.cpp	484571
+Mono.Security.cpp	149997
+mscorlib.cpp	1817739
+mscorlib1.cpp	1910344
+mscorlib10.cpp	2012914
+mscorlib11.cpp	2055676
+mscorlib12.cpp	2216930
+mscorlib13.cpp	2179293
+mscorlib14.cpp	1894874
+mscorlib15.cpp	1804971
+mscorlib16.cpp	1838230
+mscorlib17.cpp	1749448
+mscorlib18.cpp	1886536
+mscorlib19.cpp	1933819
+mscorlib2.cpp	1874549
+mscorlib20.cpp	1048932
+mscorlib3.cpp	1992451
+mscorlib4.cpp	1757666
+mscorlib5.cpp	2018877
+mscorlib6.cpp	1772045
+mscorlib7.cpp	1905227
+mscorlib8.cpp	2093408
+mscorlib9.cpp	1732175
+netstandard.cpp	954
+System.Configuration.cpp	71185
+System.Core.cpp	34541
+System.cpp	1805782
+System.Diagnostics.StackTrace.cpp	954
+System.Globalization.Extensions.cpp	954
+System.Xml.cpp	57192
+System1.cpp	1997603
+System2.cpp	1392465
+Unity.TextMeshPro.cpp	3232861
+Unity.TextMeshPro1.cpp	3178089
+Unity.TextMeshPro2.cpp	2181907
+Unity.TextMeshPro3.cpp	1620566
+UnityEngine.AIModule.cpp	24316
+UnityEngine.AnimationModule.cpp	296087
+UnityEngine.ARModule.cpp	31017
+UnityEngine.AssetBundleModule.cpp	28759
+UnityEngine.AudioModule.cpp	230234
+UnityEngine.CoreModule.cpp	1814427
+UnityEngine.CoreModule1.cpp	1778943
+UnityEngine.CoreModule2.cpp	819479
+UnityEngine.cpp	954
+UnityEngine.DirectorModule.cpp	27387
+UnityEngine.GridModule.cpp	5946
+UnityEngine.ImageConversionModule.cpp	11543
+UnityEngine.IMGUIModule.cpp	867903
+UnityEngine.InputModule.cpp	55714
+UnityEngine.JSONSerializeModule.cpp	44323
+UnityEngine.LuminModule.cpp	18355
+UnityEngine.ParticleSystemModule.cpp	82058
+UnityEngine.Physics2DModule.cpp	200710
+UnityEngine.PhysicsModule.cpp	240571
+UnityEngine.SharedInternalsModule.cpp	198889
+UnityEngine.SpatialTracking.cpp	187751
+UnityEngine.TerrainModule.cpp	288911
+UnityEngine.TextCoreModule.cpp	343883
+UnityEngine.TextRenderingModule.cpp	229249
+UnityEngine.TilemapModule.cpp	96196
+UnityEngine.UI.cpp	2083302
+UnityEngine.UI1.cpp	2191434
+UnityEngine.UI2.cpp	1937974
+UnityEngine.UI3.cpp	657208
+UnityEngine.UIElementsModule.cpp	101455
+UnityEngine.UIModule.cpp	250445
+UnityEngine.UnityAnalyticsModule.cpp	68819
+UnityEngine.UnityWebRequestModule.cpp	357229
+UnityEngine.VFXModule.cpp	58277
+UnityEngine.VideoModule.cpp	143357
+UnityEngine.VRModule.cpp	33447
+UnityEngine.XR.MagicLeap.cpp	691267
+UnityEngine.XRModule.cpp	517050
+UnresolvedVirtualCallStubs.cpp	481137
+
+
+
+
+
+
+
+
