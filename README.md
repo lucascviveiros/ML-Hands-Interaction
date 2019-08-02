@@ -1,6 +1,6 @@
 # ML-Hands-Interaction
 
-In this project was made a demo of the apps of the company Samhoud Media with Mixed Reality and exploring the potentials of the Magic Leap One and Lumin SDK.
+This Project was made a Demo App to the the company Samhoud Media with a the applications in Mixed Reality. Was explored the potentials of the Magic Leap One and Lumin SDK.
 - Spatial Mapping (Ambient Recognition) / Spatial Persistence (Magic Verse)
 - Hands Tracking and Gestures / 6DOF Controller
 - Head and Eye Raycast
