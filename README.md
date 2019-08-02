@@ -9,4 +9,4 @@ In this project was made a demo of the apps of the company Samhoud Media with Mi
 - Sounds made in FL Studio 12
 - 3D Models adjusted with Blender
 
-[![demo](https://user-images.githubusercontent.com/21102697/61935293-7b455600-af8a-11e9-8fea-e058be24be89.png)](https://youtu.be/aBeurEwX9nE)
+[![demo](https://user-images.githubusercontent.com/21102697/61935293-7b455600-af8a-11e9-8fea-e058be24be89.png)](https://youtu.be/c-6Q0WRsbuU)
