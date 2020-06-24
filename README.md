@@ -5,7 +5,7 @@ Mixed Reality Demo of the Samhoud Media applications, Magic Leap One and Lumin S
 - Hands Tracking and Gestures / 6DOF Controller
 - Head and Eye Raycast
 - Holograms Occlusion and Interaction
-- Animations, Physics and Gravity Control. 
+- Animations, Physics and Gravity Control 
 - Sounds made in FL Studio 12
 - 3D Models adjusted in Blender
 
