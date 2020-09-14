@@ -15,5 +15,5 @@ Mixed Reality Demo of the Samhoud Media applications, Magic Leap One and Lumin S
 
 ![samhoudmedia](https://user-images.githubusercontent.com/21102697/62393262-fbab1e80-b569-11e9-9708-80fd8c6964d3.png)
 
-
-- https://samhoudmedia.com/
+- Now, Samhoud Creativetech
+- https://www.samhoudcreativetech.com/
