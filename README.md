@@ -1,6 +1,6 @@
-# ML-Hands-Interaction
+# ML-Hands-Interaction (Unity3D)
 
-Mixed Reality Demo of the Samhoud Media applications, Magic Leap One and Lumin SDK.
+Samhoud Mixed Reality Demo App, Magic Leap One and Lumin SDK.
 - Spatial Mapping (Ambient Recognition) / Spatial Persistence (Magic Verse)
 - Hands Tracking and Gestures / 6DOF Controller
 - Head and Eye Raycast
