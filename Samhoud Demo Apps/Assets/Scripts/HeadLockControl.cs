@@ -7,12 +7,10 @@ public class HeadLockControl : MonoBehaviour
 {
 #region Public Variables
     public GameObject Camera;
-    //public Text myText;
 #endregion
 
     #region Private Variables
     private const float DISTANCE = 0.5f;
-    //private float SPEED = 5.0f;
 
     #endregion
 
@@ -32,9 +30,4 @@ public class HeadLockControl : MonoBehaviour
     }
     #endregion
 
-   // private void Update()
-   // {
-    ///    myText.transform.position = Camera.transform.position + Camera.transform.forward * DISTANCE;
-   //    myText.transform.rotation = Camera.transform.rotation;
-   // }
 }
