@@ -24,16 +24,10 @@ public class Tiro : MonoBehaviour {
 	}
 
 	void Fire(){
-		//GameObject bullet = Instantiate(Resources.Load("Tiro", typeof(GameObject))) as GameObject;
 		GameObject bullet = Instantiate(bulletPrefab, new Vector3(0, 0, 0), Quaternion.identity);
-
 		Rigidbody rb = bullet.GetComponent<Rigidbody>();
-		//bullet.GetComponent<AudioSource> ().Play ();;
-
 		bullet.transform.position = bulletSpawn.transform.position;
 		rb.velocity = bulletSpawn.transform.forward * 10.0f;
-		//rb.AddForce(bulletSpawn.transform.forward * 10.0f);
-
 		Destroy (bullet, 15.0f);
 	}
 
