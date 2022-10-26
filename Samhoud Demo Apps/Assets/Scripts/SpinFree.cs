@@ -11,7 +11,6 @@ public class SpinFree : MonoBehaviour
 	[Tooltip("Spin the parent object instead of the object this script is attached to")]
 	public bool spinParent;
 	public float speed = 10f;
-
 	[HideInInspector]
 	public bool clockwise = true;
 	[HideInInspector]
