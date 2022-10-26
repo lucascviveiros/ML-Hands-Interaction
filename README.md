@@ -11,6 +11,6 @@ Samhoud Mixed Reality App for Magic Leap device.
 - All Sounds made in FL Studio 12
 - 3D Models adjusted in Blender
 
-[![demo](https://user-images.githubusercontent.com/21102697/61935293-7b455600-af8a-11e9-8fea-e058be24be89.png)]
+![demo](https://user-images.githubusercontent.com/21102697/61935293-7b455600-af8a-11e9-8fea-e058be24be89.png)
 
 - Samhoud Creativetech: https://www.samhoudcreativetech.com/
