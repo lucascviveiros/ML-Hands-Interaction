@@ -1,6 +1,7 @@
-# ML-Hands-Interaction (Unity3D)
+# Magic Leap - Hands-Interaction (Unity3D/Lumin SDK)
 
-This is the Samhoud Mixed Reality App in Magic Leap/Lumin SDK.
+Samhoud Mixed Reality App for Magic Leap device.
+
 - Samhoud's Application Holograms
 - Spatial Mapping (Ambient Recognition) / Spatial Persistence (Magic Verse)
 - Hands Tracking and Gestures / 6DOF Controller
