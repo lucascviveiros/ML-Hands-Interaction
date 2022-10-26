@@ -10,8 +10,7 @@ public class VideoScript : MonoBehaviour
     {
         var videoPlayer = gameObject.AddComponent<UnityEngine.Video.VideoPlayer>();
         videoPlayer.playOnAwake = false;
-        videoPlayer.clip = videoClip;
-      
+        videoPlayer.clip = videoClip; 
     }
 
     public void setPlayVideo()
