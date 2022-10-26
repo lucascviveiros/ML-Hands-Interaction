@@ -1,0 +1,588 @@
+Unity Editor version:    2020.3.27f1 (e759542391ea)
+Branch:                  2020.3/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.5 (Build 21G72)
+Darwin version:          21.6.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62814
+Successfully changed project path to: /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps
+/Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 58.36 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 1.37 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Assets
+GfxDevice: creating device client; threaded=0
+2022-10-26 11:26:15.599 Unity[16726:763978] (null) preferred device: Apple M1 (high power)
+2022-10-26 11:26:15.599 Unity[16726:763978] Metal devices available: 1
+2022-10-26 11:26:15.599 Unity[16726:763978] 0: Apple M1 (high power)
+2022-10-26 11:26:15.599 Unity[16726:763978] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56726
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.27f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001069 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 54.35 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.28 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.174 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1175ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (953ms)
+			LoadAssemblies (107ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (186ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (473ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (55ms)
+				BeforeProcessingInitializeOnLoad (23ms)
+				ProcessInitializeOnLoadAttributes (298ms)
+				ProcessInitializeOnLoadMethodAttributes (85ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.021657 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of MagicLeap.UI.TouchModel:get_SelectPhase due to: Could not resolve type with token 01000027 (from typeref, class/assembly UnityEngine.TouchPhase, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null) assembly:UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null type:UnityEngine.TouchPhase member:(null) signature:<none>
+Unloading broken assembly Assets/MagicLeap/Libs/LuminUnity.dll, this assembly can cause crashes in the runtime
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.25 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.167 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2168ms)
+		BeginReloadAssembly (241ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (26ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (1833ms)
+			LoadAssemblies (262ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (352ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (959ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (123ms)
+				ProcessInitializeOnLoadAttributes (736ms)
+				ProcessInitializeOnLoadMethodAttributes (84ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (27ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.007092 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.030171 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Initializing Unity extensions:
+[C# Project] Writing /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Samhoud Demo Apps.sln because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Samhoud Demo Apps.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{44F39BD3-5EA4-A465-CD0B-7D7A0B2D8946}"
+[C# Project]   005: EndProject
+[C# Project]   006: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{B6860531-4117-0784-A453-8716FC6C4A3F}"
+[C# Project]   007: EndProject
+[C# Project]   008: Global
+
+[C# Project] New /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Samhoud Demo Apps.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.csproj", "{B4E2A4B1-89CF-6AA9-9FEB-4E994B28CD8B}"
+[C# Project]   005: EndProject
+[C# Project]   006: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.SpatialTracking", "UnityEngine.SpatialTracking.csproj", "{3859FA4A-94A5-085E-F9F5-5D99038BA381}"
+[C# Project]   007: EndProject
+[C# Project]   008: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{A16BA2EA-358D-BA98-4E92-DDAF1B669FB1}"
+[C# Project] Writing /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEngine.SpatialTracking.csproj because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEngine.SpatialTracking.csproj:
+[C# Project]   004:     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+[C# Project]   005:     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+[C# Project]   006:     <ProductVersion>10.0.20506</ProductVersion>
+[C# Project]   007:     <SchemaVersion>2.0</SchemaVersion>
+[C# Project]   008:     <ProjectGuid>{EDE48CFA-E9C6-66CB-F43E-070EAA2E76B0}</ProjectGuid>
+
+[C# Project] New /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEngine.SpatialTracking.csproj:
+[C# Project]   004:     <LangVersion>latest</LangVersion>
+[C# Project]   005:     <CscToolPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts</CscToolPath>
+[C# Project]   006:     <CscToolExe>unity_csc.sh</CscToolExe>
+[C# Project]   007:   </PropertyGroup>
+[C# Project]   008:   <PropertyGroup>
+[C# Project] Writing /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEngine.XR.LegacyInputHelpers.csproj because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEngine.XR.LegacyInputHelpers.csproj:
+[C# Project]   004:     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+[C# Project]   005:     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+[C# Project]   006:     <ProductVersion>10.0.20506</ProductVersion>
+[C# Project]   007:     <SchemaVersion>2.0</SchemaVersion>
+[C# Project]   008:     <ProjectGuid>{8E7C73A3-7719-6FE2-0D0D-A83EDAB504C7}</ProjectGuid>
+
+[C# Project] New /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEngine.XR.LegacyInputHelpers.csproj:
+[C# Project]   004:     <LangVersion>latest</LangVersion>
+[C# Project]   005:     <CscToolPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts</CscToolPath>
+[C# Project]   006:     <CscToolExe>unity_csc.sh</CscToolExe>
+[C# Project]   007:   </PropertyGroup>
+[C# Project]   008:   <PropertyGroup>
+[C# Project] Writing /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Assembly-CSharp.csproj because it has changed
+[C# Project] First difference on line 473
+
+[C# Project] Current /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Assembly-CSharp.csproj:
+[C# Project]   473:  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+[C# Project]   474:  <HintPath>/Applications/Unity/Hub/Editor/2020.3.27f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+[C# Project]   475:  </Reference>
+[C# Project]   476:  <Reference Include="UnityEditor.iOS.Extensions.Common">
+[C# Project]   477:  <HintPath>/Applications/Unity/Hub/Editor/2020.3.27f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
+
+[C# Project] New /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Assembly-CSharp.csproj:
+[C# Project]   473:  <Reference Include="netstandard">
+[C# Project]   474:  <HintPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
+[C# Project]   475:  </Reference>
+[C# Project]   476:  <Reference Include="Microsoft.Win32.Primitives">
+[C# Project]   477:  <HintPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/Microsoft.Win32.Primitives.dll</HintPath>
+[C# Project] Writing /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.TextMeshPro.csproj because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.TextMeshPro.csproj:
+[C# Project]   004:     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+[C# Project]   005:     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+[C# Project]   006:     <ProductVersion>10.0.20506</ProductVersion>
+[C# Project]   007:     <SchemaVersion>2.0</SchemaVersion>
+[C# Project]   008:     <ProjectGuid>{07A21C90-D344-AE1A-8456-9910C203B41A}</ProjectGuid>
+
+[C# Project] New /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.TextMeshPro.csproj:
+[C# Project]   004:     <LangVersion>latest</LangVersion>
+[C# Project]   005:     <CscToolPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts</CscToolPath>
+[C# Project]   006:     <CscToolExe>unity_csc.sh</CscToolExe>
+[C# Project]   007:   </PropertyGroup>
+[C# Project]   008:   <PropertyGroup>
+[C# Project] Writing /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.Analytics.DataPrivacy.csproj because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.Analytics.DataPrivacy.csproj:
+[C# Project]   004:     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+[C# Project]   005:     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+[C# Project]   006:     <ProductVersion>10.0.20506</ProductVersion>
+[C# Project]   007:     <SchemaVersion>2.0</SchemaVersion>
+[C# Project]   008:     <ProjectGuid>{D6E266C6-3D1F-28C8-9FEB-2A01E44DBF77}</ProjectGuid>
+
+[C# Project] New /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.Analytics.DataPrivacy.csproj:
+[C# Project]   004:     <LangVersion>latest</LangVersion>
+[C# Project]   005:     <CscToolPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts</CscToolPath>
+[C# Project]   006:     <CscToolExe>unity_csc.sh</CscToolExe>
+[C# Project]   007:   </PropertyGroup>
+[C# Project]   008:   <PropertyGroup>
+[C# Project] Writing /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.TextMeshPro.Editor.csproj because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.TextMeshPro.Editor.csproj:
+[C# Project]   004:     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+[C# Project]   005:     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+[C# Project]   006:     <ProductVersion>10.0.20506</ProductVersion>
+[C# Project]   007:     <SchemaVersion>2.0</SchemaVersion>
+[C# Project]   008:     <ProjectGuid>{3A848AB7-9891-EDDA-D555-BF184C2F81F4}</ProjectGuid>
+
+[C# Project] New /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.TextMeshPro.Editor.csproj:
+[C# Project]   004:     <LangVersion>latest</LangVersion>
+[C# Project]   005:     <CscToolPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts</CscToolPath>
+[C# Project]   006:     <CscToolExe>unity_csc.sh</CscToolExe>
+[C# Project]   007:   </PropertyGroup>
+[C# Project]   008:   <PropertyGroup>
+[C# Project] Writing /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.CollabProxy.Editor.csproj because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.CollabProxy.Editor.csproj:
+[C# Project]   004:     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+[C# Project]   005:     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+[C# Project]   006:     <ProductVersion>10.0.20506</ProductVersion>
+[C# Project]   007:     <SchemaVersion>2.0</SchemaVersion>
+[C# Project]   008:     <ProjectGuid>{C12CEEC6-100C-58A2-DE36-314E4DE5E40B}</ProjectGuid>
+
+[C# Project] New /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Unity.CollabProxy.Editor.csproj:
+[C# Project]   004:     <LangVersion>latest</LangVersion>
+[C# Project]   005:     <CscToolPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts</CscToolPath>
+[C# Project]   006:     <CscToolExe>unity_csc.sh</CscToolExe>
+[C# Project]   007:   </PropertyGroup>
+[C# Project]   008:   <PropertyGroup>
+[C# Project] Writing /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Assembly-CSharp-Editor.csproj because it has changed
+[C# Project] First difference on line 286
+
+[C# Project] Current /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Assembly-CSharp-Editor.csproj:
+[C# Project]   286:  <Reference Include="UnityEditor.Android.Extensions">
+[C# Project]   287:  <HintPath>/Applications/Unity/Hub/Editor/2020.3.27f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+[C# Project]   288:  </Reference>
+[C# Project]   289:  <Reference Include="UnityEditor.iOS.Extensions">
+[C# Project]   290:  <HintPath>/Applications/Unity/Hub/Editor/2020.3.27f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
+
+[C# Project] New /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Assembly-CSharp-Editor.csproj:
+[C# Project]   286:  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
+[C# Project]   287:  <HintPath>/Applications/Unity/Hub/Editor/2020.3.27f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+[C# Project]   288:  </Reference>
+[C# Project]   289:  <Reference Include="MSA.Runtime">
+[C# Project]   290:  <HintPath>/Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/Assets/MagicLeap/Soundfield/MSA.Runtime.dll</HintPath>
+[C# Project] Writing /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEditor.XR.LegacyInputHelpers.csproj because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEditor.XR.LegacyInputHelpers.csproj:
+[C# Project]   004:     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+[C# Project]   005:     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+[C# Project]   006:     <ProductVersion>10.0.20506</ProductVersion>
+[C# Project]   007:     <SchemaVersion>2.0</SchemaVersion>
+[C# Project]   008:     <ProjectGuid>{E39D021A-24A3-CC45-6B3B-9304A0479D9A}</ProjectGuid>
+
+[C# Project] New /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEditor.XR.LegacyInputHelpers.csproj:
+[C# Project]   004:     <LangVersion>latest</LangVersion>
+[C# Project]   005:     <CscToolPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts</CscToolPath>
+[C# Project]   006:     <CscToolExe>unity_csc.sh</CscToolExe>
+[C# Project]   007:   </PropertyGroup>
+[C# Project]   008:   <PropertyGroup>
+[C# Project] Writing /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEditor.SpatialTracking.csproj because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEditor.SpatialTracking.csproj:
+[C# Project]   004:     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+[C# Project]   005:     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+[C# Project]   006:     <ProductVersion>10.0.20506</ProductVersion>
+[C# Project]   007:     <SchemaVersion>2.0</SchemaVersion>
+[C# Project]   008:     <ProjectGuid>{779568FA-8B74-9FC0-8E1A-6EBB501CEFE6}</ProjectGuid>
+
+[C# Project] New /Volumes/PNY Ex-SSD/WORKSTATION/ML-Hands-Interaction/Samhoud Demo Apps/UnityEditor.SpatialTracking.csproj:
+[C# Project]   004:     <LangVersion>latest</LangVersion>
+[C# Project]   005:     <CscToolPath>/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts</CscToolPath>
+[C# Project]   006:     <CscToolExe>unity_csc.sh</CscToolExe>
+[C# Project]   007:   </PropertyGroup>
+[C# Project]   008:   <PropertyGroup>
+2022-10-26 11:26:23.254 Unity[16726:763978] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000058d260 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-10-26 11:26:23.257 Unity[16726:763978] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000059fe90 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.26 ms.
+Unloading 2598 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 226.9 MB.
+System memory in use after: 226.2 MB.
+
+Unloading 152 unused Assets to reduce memory usage. Loaded Objects now: 3058.
+Total: 5.410792 ms (FindLiveObjects: 0.156542 ms CreateObjectMapping: 0.060583 ms MarkObjects: 4.726917 ms  DeleteObjects: 0.465875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.xr.magicleap/Runtime/UnityEngine.XR.MagicLeap.asmdef
+  artifactKey: Guid(28d8685fae23c21419ef42894cb9b075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.magicleap/Runtime/UnityEngine.XR.MagicLeap.asmdef using Guid(28d8685fae23c21419ef42894cb9b075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec6501938c0444c42aa7e8a37839c8f') in 0.090395 seconds 
+  Import took 0.095436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Packages/com.unity.xr.magicleap/Runtime/MLSpatialMapper.cs
+  artifactKey: Guid(2900a6968c451a44481c09cc0a260539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.magicleap/Runtime/MLSpatialMapper.cs using Guid(2900a6968c451a44481c09cc0a260539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493350f0996124eadae2a7e23f4de4c5') in 0.145604 seconds 
+  Import took 0.150594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 279.578659 seconds.
+  path: Assets/Prefabs/WKZ monkey and tiger/FBX/Aap_Multi_Tracks.fbx
+  artifactKey: Guid(e699b6354f6b0462bbdd98e1187638a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/WKZ monkey and tiger/FBX/Aap_Multi_Tracks.fbx using Guid(e699b6354f6b0462bbdd98e1187638a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54306f7998fc7c694301c74bc67efe0') in 0.833452 seconds 
+  Import took 0.850337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/MagicLeap/Examples/Models/TrackingCube/Materials/Tracking_Cube_1x1.mat
+  artifactKey: Guid(a88eadc2615b9db43b1cefb82e212c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MagicLeap/Examples/Models/TrackingCube/Materials/Tracking_Cube_1x1.mat using Guid(a88eadc2615b9db43b1cefb82e212c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03cb964fde8d6ae236710b0dd5c06d3') in 0.122439 seconds 
+  Import took 0.127788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/MagicLeap/Examples/Models/TrackingCube/Materials/Tracking_Cube.mat
+  artifactKey: Guid(978e6040558382e47ba9ecd2b9d2faeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MagicLeap/Examples/Models/TrackingCube/Materials/Tracking_Cube.mat using Guid(978e6040558382e47ba9ecd2b9d2faeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f590225feaa914b22eb162199ebba294') in 0.009405 seconds 
+  Import took 0.012153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/MagicLeap/Examples/Prefabs/Tracking_Cube.prefab
+  artifactKey: Guid(32305cf948ccfa542879ef9ff007f5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MagicLeap/Examples/Prefabs/Tracking_Cube.prefab using Guid(32305cf948ccfa542879ef9ff007f5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87838af229be3c7a020f884a5ef4639') in 0.061974 seconds 
+  Import took 0.066893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/MagicLeap/Examples/Textures/ImageTracking_DeepSeaExploration.png
+  artifactKey: Guid(edcd24815d0314639a6ad2bebbdd4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MagicLeap/Examples/Textures/ImageTracking_DeepSeaExploration.png using Guid(edcd24815d0314639a6ad2bebbdd4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bd27518563950930f7e9a3a6e8a7dbe') in 0.405122 seconds 
+  Import took 0.409854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/MagicLeap/Examples/Textures/ImageTracking_DeepSpaceExploration.png
+  artifactKey: Guid(791fec7e7734448ac87e98c56212b2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MagicLeap/Examples/Textures/ImageTracking_DeepSpaceExploration.png using Guid(791fec7e7734448ac87e98c56212b2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c1cb3bc9eb7034731887cbf49d42a6f') in 0.018550 seconds 
+  Import took 0.021187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/MagicLeap/Examples/Models/TrackingCube/Meshes/Tracking_Cube_1x1.fbx
+  artifactKey: Guid(cfdbe6d363b0ec24fb443e8c3f5753dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MagicLeap/Examples/Models/TrackingCube/Meshes/Tracking_Cube_1x1.fbx using Guid(cfdbe6d363b0ec24fb443e8c3f5753dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a2e4ea86dd85e3fdf89d513b7f08876') in 0.019920 seconds 
+  Import took 0.022672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Prefabs/WKZ monkey and tiger/FBX/Tiger_Multi_Tracks.fbx
+  artifactKey: Guid(bceb005b7d2834b4d8ba6ac9cb640e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/WKZ monkey and tiger/FBX/Tiger_Multi_Tracks.fbx using Guid(bceb005b7d2834b4d8ba6ac9cb640e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b219497f21163d9b481b96507575ae9') in 0.159016 seconds 
+  Import took 0.163406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/MagicLeap/Examples/Models/TrackingCube/Meshes/Tracking_Cube.fbx
+  artifactKey: Guid(558bd001b90f63c4abb4943848c5cad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MagicLeap/Examples/Models/TrackingCube/Meshes/Tracking_Cube.fbx using Guid(558bd001b90f63c4abb4943848c5cad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313344cdf7320356c924877fcc3f2858') in 0.012783 seconds 
+  Import took 0.015854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 733.044784 seconds.
+  path: Assets/AnimationControl.cs
+  artifactKey: Guid(6be10cf007fab4c3396177b50bee2623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimationControl.cs using Guid(6be10cf007fab4c3396177b50bee2623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222698f8b95ff09a51795245555311b3') in 0.010707 seconds 
+  Import took 0.026293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.059227 seconds.
+  path: Assets/Scripts/AcaoBotao.cs
+  artifactKey: Guid(e3fe300bc483a99479f77ad9a3ab1e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AcaoBotao.cs using Guid(e3fe300bc483a99479f77ad9a3ab1e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4526b48ec0a2b8960dc57f6e9f01c8a5') in 0.002571 seconds 
+  Import took 0.005680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.513616 seconds.
+  path: Assets/Scripts/Bala.cs
+  artifactKey: Guid(5e9db78e9beeb9749a181f4369e5656b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Bala.cs using Guid(5e9db78e9beeb9749a181f4369e5656b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff2b2f60b77df19fbc482062bb078df7') in 0.003130 seconds 
+  Import took 0.006428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.466222 seconds.
+  path: Assets/Scripts/Cena2Controller.cs
+  artifactKey: Guid(5b54ddd570a5ee3409b98883e60d4973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cena2Controller.cs using Guid(5b54ddd570a5ee3409b98883e60d4973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '225c1b939327ee917df8032fd45a0be4') in 0.002677 seconds 
+  Import took 0.006099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.038232 seconds.
+  path: Assets/Scripts/EndProFinal.cs
+  artifactKey: Guid(b03c1aaa4d4bdbe4fb5c80e83a944b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EndProFinal.cs using Guid(b03c1aaa4d4bdbe4fb5c80e83a944b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '994f7141e171df9ab5db9ea1b23dc69e') in 0.004089 seconds 
+  Import took 0.008997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.740614 seconds.
+  path: Assets/Scripts/EndTimeLineCena1.cs
+  artifactKey: Guid(30afba31a67d3c84fafeea5cd393c8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EndTimeLineCena1.cs using Guid(30afba31a67d3c84fafeea5cd393c8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f18248322c79846e6265c8d94ee5cb90') in 0.003817 seconds 
+  Import took 0.008991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.674283 seconds.
+  path: Assets/Scripts/Final.cs
+  artifactKey: Guid(4dceed0c5e3e20647957324a77fd7039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Final.cs using Guid(4dceed0c5e3e20647957324a77fd7039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3554752d7170f95237b160e7f7958f36') in 0.003878 seconds 
+  Import took 0.008814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.240623 seconds.
+  path: Assets/Scripts/Tiro.cs
+  artifactKey: Guid(be47dba2b60480344b425bb3aa371695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tiro.cs using Guid(be47dba2b60480344b425bb3aa371695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62939d30e780739a7422521d22771872') in 0.003943 seconds 
+  Import took 0.008656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.502662 seconds.
+  path: Assets/Scripts/SpinFree.cs
+  artifactKey: Guid(34c20de9ecc8bde41b5ed3a66a8071a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SpinFree.cs using Guid(34c20de9ecc8bde41b5ed3a66a8071a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4852b570b1b8efb77ed271107c89ac') in 0.002557 seconds 
+  Import took 0.005724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.995315 seconds.
+  path: Assets/EnemieAttack.cs
+  artifactKey: Guid(1eaf7d05c94a72146a62b91b5dac5bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EnemieAttack.cs using Guid(1eaf7d05c94a72146a62b91b5dac5bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '247346f1fe0d8c0858ce05770f8cfd0b') in 0.002488 seconds 
+  Import took 0.005726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.483135 seconds.
+  path: Assets/EnemyAttack.cs
+  artifactKey: Guid(bb2ec39781c77f04b865a01b62e77a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EnemyAttack.cs using Guid(bb2ec39781c77f04b865a01b62e77a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24627d4063735da56ecedc78c201a7e4') in 0.003692 seconds 
+  Import took 0.008739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.213968 seconds.
+  path: Assets/GestureController.cs
+  artifactKey: Guid(4d687cd8177e74fab8c7e0c5cff67ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GestureController.cs using Guid(4d687cd8177e74fab8c7e0c5cff67ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73590369ef2ff2f9926c12c2250e9ab8') in 0.002687 seconds 
+  Import took 0.005869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.018398 seconds.
+  path: Assets/HeadLockHard.cs
+  artifactKey: Guid(d5b7d360ecb8340f791ee1227f951274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HeadLockHard.cs using Guid(d5b7d360ecb8340f791ee1227f951274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa57a785964434702d504e21a234cf12') in 0.002870 seconds 
+  Import took 0.006650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.736639 seconds.
+  path: Assets/LaserScript.cs
+  artifactKey: Guid(53c20105a0c434a5d9bc06e4edde740f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LaserScript.cs using Guid(53c20105a0c434a5d9bc06e4edde740f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2310070de223b75d275c7add63d85bc9') in 0.002651 seconds 
+  Import took 0.005847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.064588 seconds.
+  path: Assets/MyControl.cs
+  artifactKey: Guid(fde0ca188eb0d462f9dbcdc58d9eddde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyControl.cs using Guid(fde0ca188eb0d462f9dbcdc58d9eddde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9e4bf0dc4c8aed7833b262f9cc7729') in 0.003632 seconds 
+  Import took 0.008611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.864172 seconds.
+  path: Assets/MySceneControl.cs
+  artifactKey: Guid(a3a81d64f72f24d3688ef208bf06045e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MySceneControl.cs using Guid(a3a81d64f72f24d3688ef208bf06045e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc26f55823dc92d8968c0789c818973') in 0.002721 seconds 
+  Import took 0.005997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.015079 seconds.
+  path: Assets/PlaneRecognition.cs
+  artifactKey: Guid(6a4ffe0bbd2b145c296645e73ae86dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaneRecognition.cs using Guid(6a4ffe0bbd2b145c296645e73ae86dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22536e11154e208a0d9a953597dd444') in 0.002615 seconds 
+  Import took 0.006035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.631679 seconds.
+  path: Assets/TestScript.cs
+  artifactKey: Guid(a51a950c791af409d8fa34e46f0b3133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TestScript.cs using Guid(a51a950c791af409d8fa34e46f0b3133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc374c7e3815cf39e93a9cf962aa1bd1') in 0.002768 seconds 
+  Import took 0.006134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.545478 seconds.
+  path: Assets/VideoControl.cs
+  artifactKey: Guid(90ee1f7327437471da21ce7ab3c89b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VideoControl.cs using Guid(90ee1f7327437471da21ce7ab3c89b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6eaeda3e456cfed7f3430c95ccc6b4') in 0.002571 seconds 
+  Import took 0.005676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.142541 seconds.
+  path: Assets/VideoPlayer.cs
+  artifactKey: Guid(b6003a5280da24d0795996ca0a75d569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VideoPlayer.cs using Guid(b6003a5280da24d0795996ca0a75d569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c44c7a0105a209f083ef1961e00509fa') in 0.002611 seconds 
+  Import took 0.005678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.017740 seconds.
+  path: Assets/VideoScript.cs
+  artifactKey: Guid(5066be6fa778d455ca7aeeef873584e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VideoScript.cs using Guid(5066be6fa778d455ca7aeeef873584e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8fe7e83d4f3edadf9c7d5f124b1bfce') in 0.002330 seconds 
+  Import took 0.005529 seconds .
+
