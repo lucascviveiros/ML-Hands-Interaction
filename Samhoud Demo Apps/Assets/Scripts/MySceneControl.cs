@@ -13,13 +13,11 @@ public class MySceneControl : MonoBehaviour
     public HandPoses pose = HandPoses.NoPose;
     public MLInputController _controller;
     public MLHand Hand;
-    private Vector3 headlook; // where you're looking
-
+    private Vector3 headlook; 
     private const float _distance = 1.0f;
 
     void Start()
     {
-        //Initiate Control
         MLInput.Start();
         _controller = MLInput.GetController(MLInput.Hand.Left);
         // MLInput.OnControllerButtonDown += OnButtonDown;
