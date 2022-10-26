@@ -57,15 +57,15 @@ public class PlaneRecognition : MonoBehaviour
         }
 
         GameObject newPlane;
-        GameObject newName;
+        GameObject newChild;
 
         for (int i = 0; i < planes.Length; ++i)
         {
             newPlane = Instantiate(PlaneGameObject);
             newPlane.name = i.ToString(); 
-            newName = newPlane.transform.GetChild(0).gameObject; //get the first child
-            newName.GetComponent<TMPro.TextMeshPro>().text = i.ToString(); //set the text in TextMeshPro
-            newName.SetActive(false); //Turnin invisible
+            newChild = newPlane.transform.GetChild(0).gameObject; //get the first child
+            newChild.GetComponent<TMPro.TextMeshPro>().text = i.ToString(); //set the text in TextMeshPro
+            newChild.SetActive(false); //Turnin invisible
             newPlane.transform.position = planes[i].Center;
             newPlane.transform.rotation = planes[i].Rotation;
             newPlane.transform.localScale = new Vector3(planes[i].Width, planes[i].Height, 1f);
