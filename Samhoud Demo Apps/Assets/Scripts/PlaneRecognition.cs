@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.MagicLeap;
 using UnityEngine.UI;
+
 public class PlaneRecognition : MonoBehaviour
 {
     public Transform BBoxTransform;  //Determine the center of the region in which the plane extraction happens. Use the head pose through the MainCamera
