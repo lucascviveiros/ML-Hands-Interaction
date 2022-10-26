@@ -5,7 +5,6 @@ using UnityEngine.UI;
 
 public class ObjectCollider : MonoBehaviour
 {
-    //public Text textCol;
     public Vector3 colVect;
     public Vector3 planeVect;
     public bool fallDown;
